@@ -6,8 +6,8 @@ project = 'Mukurtu Metadata Transformation Toolkit'
 copyright = '2022, CDSC'
 author = 'CDSC'
 
-release = '0.0'
-version = '0.0.0'
+release = 'alpha'
+version = '0.0.1'
 
 # -- General configuration
 
