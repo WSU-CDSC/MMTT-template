@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Mukurtu Metadata Transformation Toolkit
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
