@@ -35,26 +35,49 @@ The XML files provided by the NMAI use the Dublin Core namespace and should map 
 
 In a new LibreOffice Calc sheet, 
 
-.. image:: path/filename.png
-  :width: 400
+.. image:: images/NMAI_Mukurtu_01.png
+  :width: 800
   :alt: Alternative text
   
   
-.. image:: path/filename.png
-  :width: 400
+.. image:: images/NMAI_Mukurtu_02.png
+  :width: 800
   :alt: Alternative text
   
-  
-.. image:: path/filename.png
-  :width: 400
+ .. image:: images/NMAI_Mukurtu_03.png
+  :width: 800
   :alt: Alternative text
   
-  
-.. image:: path/filename.png
-  :width: 400
+ .. image:: images/NMAI_Mukurtu_04.png
+  :width: 800
   :alt: Alternative text
+  
+ .. image:: images/NMAI_Mukurtu_05.png
+  :width: 800
+  :alt: Alternative text
+  
+ .. image:: images/NMAI_Mukurtu_06.png
+  :width: 800
+  :alt: Alternative text
+  
+ .. image:: images/NMAI_Mukurtu_07.png
+  :width: 800
+  :alt: Alternative text
+  
+ .. image:: images/NMAI_Mukurtu_08.png
+  :width: 800
+  :alt: Alternative text
+  
+ .. image:: images/NMAI_Mukurtu_09.png
+  :width: 800
+  :alt: Alternative text
+
 
 **Integrating XLSX data (optional)**
 
+Information provided by the NMAI about this spreadsheet:
+
+"The .xls spreadsheet includes “extra” information that we have in the CIS (EMu) database that does not necessarily fit into Mukurtu. This includes internal info from NMAI like past exhibits and conservation work, but also the “cultural care” information that we have. The latter in this case being info that staff have entered based on their knowledge or communications with Native communities and which we would be very interested in correcting if necessary. Note that the “Status” field is embedded in that field in parentheses, with terms such as “Confirmed,” “Unconfirmed,” and “Advisory.” The first being if it came from the community itself, the second if it was a note that we can’t identify the source, and the third being if a staff member offered it based on their own knowledge or other research. Also, if you see the word “Rights” in that field, it is simply referring to the name of the pre-existing module that we are using to hold this information in EMu. It was the best place for us to make sure the data is visible by appropriate staff.
+If there is any further question about something in this spreadsheet, please let us know and we can provide any more information that we may have."																				
 
 **Mapping NMAI fields to Mukurtu Core**
