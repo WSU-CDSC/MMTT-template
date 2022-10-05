@@ -31,49 +31,69 @@ The XML files provided by the NMAI use the Dublin Core namespace and should map 
 
 **Converting XML to CSV**
 
-*These directions are for using LibreOffice. They may vary for your spreadsheet tool of choice.*
+*These directions are shown using LibreOffice on MacOS. They may vary somewhat for your spreadsheet tool and operating system of choice.*
 
-In a new LibreOffice Calc sheet, 
+1) In a new LibreOffice Calc sheet select "Data" > "XML Source".
 
 .. image:: images/NMAI_Mukurtu_01.png
   :width: 800
-  :alt: Alternative text
+  :alt: Screenshot of
 
+2) Click on the folder icon that reads "- not set -".
 
 .. image:: images/NMAI_Mukurtu_02.png
   :width: 800
   :alt: Alternative text
  
+3) Click on "ns0:Description".
  
 .. image:: images/NMAI_Mukurtu_03.png
   :width: 800
   :alt: Alternative text
  
+4) Click on the blank "Mapped cell" option. 
+Then click in the first cell you want to fill in - most likely A1.
  
 .. image:: images/NMAI_Mukurtu_04.png
   :width: 800
   :alt: Alternative text
- 
+
+5) The "Mapped cell" will be automatically filled in. 
+Click "Import".
  
 .. image:: images/NMAI_Mukurtu_05.png
   :width: 800
   :alt: Alternative text
- 
+
+6) The sheet should be automatically popualted, with the first row matching the XML Dublic Core namespaces.
  
 .. image:: images/NMAI_Mukurtu_06.png
   :width: 800
   :alt: Alternative text
  
+7) Select "File" > "Save". 
  
 .. image:: images/NMAI_Mukurtu_07.png
   :width: 800
   :alt: Alternative text
 
+8) Select where you want to save your file. 
+Assign it a descriptive name - usually the same name as the original XML file provided by the NMAI is sufficient. Set the file type to "Text CSV (.csv)" - this will automatically assign the correct file extension in the filename. C
+lick "Save".
 
 .. image:: images/NMAI_Mukurtu_08.png
   :width: 800
   :alt: Alternative text
 
+9) Configure the following export text file settings:
+
+- Character set: Unicode (UTF-8)
+
+- Field delimiter: , (comma)
+
+- String delimiter: " (quotation)
+
+Click OK. Your file will be saved.
 
 .. image:: images/NMAI_Mukurtu_09.png
   :width: 800
