@@ -45,37 +45,37 @@ In a new LibreOffice Calc sheet,
   :alt: Alternative text
  
  
- .. image:: images/NMAI_Mukurtu_03.png
+.. image:: images/NMAI_Mukurtu_03.png
   :width: 800
   :alt: Alternative text
  
  
- .. image:: images/NMAI_Mukurtu_04.png
+.. image:: images/NMAI_Mukurtu_04.png
   :width: 800
   :alt: Alternative text
  
  
- .. image:: images/NMAI_Mukurtu_05.png
+.. image:: images/NMAI_Mukurtu_05.png
   :width: 800
   :alt: Alternative text
  
  
- .. image:: images/NMAI_Mukurtu_06.png
+.. image:: images/NMAI_Mukurtu_06.png
   :width: 800
   :alt: Alternative text
  
  
- .. image:: images/NMAI_Mukurtu_07.png
-  :width: 800
-  :alt: Alternative text
-
-
- .. image:: images/NMAI_Mukurtu_08.png
+.. image:: images/NMAI_Mukurtu_07.png
   :width: 800
   :alt: Alternative text
 
 
- .. image:: images/NMAI_Mukurtu_09.png
+.. image:: images/NMAI_Mukurtu_08.png
+  :width: 800
+  :alt: Alternative text
+
+
+.. image:: images/NMAI_Mukurtu_09.png
   :width: 800
   :alt: Alternative text
 
