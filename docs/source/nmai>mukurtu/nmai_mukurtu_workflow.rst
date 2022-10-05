@@ -24,3 +24,37 @@ See https://mukurtu.org/support/mukurtu-cms-access-copy-sizes-resolutions-and-fi
 
 Processing metadata
 ___________________
+
+For batch import, Mukurtu requires that spreadsheets be UTF-8 encoded CSV files. We recommend using LibreOffice, OpenOffice, or Google Sheets for creating and editing CSV files. See https://mukurtu.org/support/file-formats-character-encoding-and-spreadsheet-tools/ for more information.
+
+The XML files provided by the NMAI use the Dublin Core namespace and should map very easily to Mukurtu Core.
+
+**Converting XML to CSV**
+
+*These directions are for using LibreOffice. They may vary for your spreadsheet tool of choice.*
+
+In a new LibreOffice Calc sheet, 
+
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+  
+  
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+  
+  
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+  
+  
+.. image:: path/filename.png
+  :width: 400
+  :alt: Alternative text
+
+**Integrating XLSX data (optional)**
+
+
+**Mapping NMAI fields to Mukurtu Core**
