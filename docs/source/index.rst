@@ -13,5 +13,5 @@ Contents
 .. toctree::
 
    resources_links
-   nmai>mukurtu/nmai_mukurtu_workflow
+   nmai_mukurtu/nmai_mukurtu_workflow
    
