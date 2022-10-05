@@ -52,20 +52,22 @@ The XML files provided by the NMAI use the Dublin Core namespace and should map 
   :alt: Alternative text
  
 4) Click on the blank "Mapped cell" option. 
-Then click in the first cell you want to fill in - most likely A1.
+
+- Then click in the first cell you want to fill in - most likely A1.
  
 .. image:: images/NMAI_Mukurtu_04.png
   :width: 800
   :alt: Alternative text
 
 5) The "Mapped cell" will be automatically filled in. 
-Click "Import".
+
+- Click "Import".
  
 .. image:: images/NMAI_Mukurtu_05.png
   :width: 800
   :alt: Alternative text
 
-6) The sheet should be automatically popualted, with the first row matching the XML Dublic Core namespaces.
+6) The sheet should be automatically populated, with the first row matching the XML Dublic Core namespaces.
  
 .. image:: images/NMAI_Mukurtu_06.png
   :width: 800
@@ -78,8 +80,12 @@ Click "Import".
   :alt: Alternative text
 
 8) Select where you want to save your file. 
-Assign it a descriptive name - usually the same name as the original XML file provided by the NMAI is sufficient. Set the file type to "Text CSV (.csv)" - this will automatically assign the correct file extension in the filename. C
-lick "Save".
+
+- Assign it a descriptive name - usually the same name as the original XML file provided by the NMAI is sufficient. 
+
+- Set the file type to "Text CSV (.csv)" this will automatically assign the correct file extension in the filename. 
+
+- Click "Save".
 
 .. image:: images/NMAI_Mukurtu_08.png
   :width: 800
